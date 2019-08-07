@@ -1,0 +1,42 @@
+{
+  "group": "leatherscraps",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "1": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "2": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "3": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "4": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "5": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "6": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "7": {
+      "item": "leatherscraps:leatherscraps"
+    },
+    "8": {
+      "item": "leatherscraps:leatherscraps"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "leatherscraps",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:saddle"
+    }
+  ],
+  "result": {
+    "item": "leatherscraps:leatherscraps",
+    "count": 1
+  }
+}

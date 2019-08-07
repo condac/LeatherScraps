@@ -1,0 +1,26 @@
+{
+  "_fv": 3,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "textureleatherscrap",
+    "customModelName": "Normal",
+    "name": "Leather Scraps",
+    "creativeTab": {
+      "value": "MATERIALS"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "canBeDroppedAsGrassSeed": false,
+    "droppedAsGrassSeedProbability": 5,
+    "specialInfo": [
+      "Broken pieces of leather"
+    ],
+    "hasGlow": false
+  }
+}
