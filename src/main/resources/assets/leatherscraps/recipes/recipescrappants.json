@@ -7,11 +7,11 @@
       "data": 32767
     },
     {
-      "item": "minecraft:saddle"
+      "item": "minecraft:leather_leggings"
     }
   ],
   "result": {
     "item": "leatherscraps:leatherscraps",
-    "count": 5
+    "count": 7
   }
 }

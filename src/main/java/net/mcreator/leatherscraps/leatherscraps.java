@@ -57,6 +57,12 @@ public class leatherscraps implements IFuelHandler, IWorldGenerator {
 		elements.add(new MCreatorLeatherScraps(this));
 		elements.add(new MCreatorRecipeScrapSaddle(this));
 		elements.add(new MCreatorCombineScraps(this));
+		elements.add(new MCreatorHardScissors(this));
+		elements.add(new MCreatorRecipeHardScissors(this));
+		elements.add(new MCreatorRecipeScrapBoots(this));
+		elements.add(new MCreatorRecipeScrapPants(this));
+		elements.add(new MCreatorRecipeScrapShirt(this));
+		elements.add(new MCreatorRecipeScrapHat(this));
 	}
 
 	@Override

@@ -1,0 +1,24 @@
+{
+  "_fv": 3,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "hardscissortexture",
+    "customModelName": "Normal",
+    "name": "HardScissors",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 50,
+    "toolType": 2.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": true,
+    "canBeDroppedAsGrassSeed": false,
+    "droppedAsGrassSeedProbability": 5,
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

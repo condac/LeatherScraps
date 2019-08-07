@@ -5,20 +5,20 @@
     "recipeRetstackSize": 1,
     "recipeShapeless": true,
     "recipeReturnStack": {
-      "value": "CUSTOM:LeatherScraps"
+      "value": "CUSTOM:HardScissors"
     },
     "recipeSlots": [
       {
-        "value": "CUSTOM:HardScissors"
+        "value": "Items.SHEARS"
       },
       {
-        "value": "Items.SADDLE"
-      },
-      {
-        "value": ""
+        "value": "Items.REDSTONE"
       },
       {
         "value": ""
+      },
+      {
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": ""

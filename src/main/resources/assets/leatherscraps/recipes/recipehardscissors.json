@@ -1,0 +1,19 @@
+{
+  "group": "leatherscraps",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:shears"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "item": "leatherscraps:hardscissors",
+    "count": 1
+  }
+}

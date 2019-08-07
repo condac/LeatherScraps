@@ -2,7 +2,7 @@
   "_fv": 3,
   "_type": "recipe",
   "definition": {
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 4,
     "recipeShapeless": true,
     "recipeReturnStack": {
       "value": "CUSTOM:LeatherScraps"
@@ -12,7 +12,7 @@
         "value": "CUSTOM:HardScissors"
       },
       {
-        "value": "Items.SADDLE"
+        "value": "Items.LEATHER_BOOTS"
       },
       {
         "value": ""
